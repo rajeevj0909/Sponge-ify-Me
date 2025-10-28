@@ -1,0 +1,7 @@
+{
+  "name": "Sponge-ify Me with Gemini",
+  "description": "Upload a photo of your face and use Gemini 2.5 Flash Image to transform it into a Spongebob-style character. Edit images with simple text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
